@@ -1,4 +1,4 @@
-# Bulgarian-phonetic-keyboard-mac
+# MAC-OS-bulgarian-phonetic-keyboard
 This is a custom Bulgarian phonetic keyboard for MAC, where the (Ч) and (`) keys have been switched 
 
 ![Layout](https://i.imgur.com/jSdpCak.jpeg)
